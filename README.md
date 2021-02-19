@@ -1,0 +1,2 @@
+# squidproxy
+configuracó del squid
